@@ -2,13 +2,6 @@
 
 I'm a developer who enjoys building practical web applications and exploring how software can help solve everyday problems. My projects include full-stack apps, NLP and machine-learning experiments, and academic software systems.
 
-## Find me
-
-- GitHub: [@kian21992](https://github.com/kian21992)
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28">](https://www.linkedin.com/in/kian-cruz-9a30b9346/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Gmail" width="28" height="28">](mailto:kiancruz810@gmail.com)
-
 ## Featured projects
 
 - [Gamit Check](https://github.com/kian21992/Gamit-Check): a personal inventory app built with React, Express, and PostgreSQL.
@@ -49,5 +42,12 @@ OpenAI Codex, Claude, Blackbox AI, Antigravity, Gemini, GitHub Copilot, ChatGPT
 
 I use projects to keep learning about full-stack development, data-driven applications, and building software that is useful and understandable.
 
+## Find me
 
+- GitHub: [@kian21992](https://github.com/kian21992)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kian-cruz-9a30b9346/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28"></a>
+  <a href="mailto:kiancruz810@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Gmail" width="28" height="28"></a>
+</p>
 
