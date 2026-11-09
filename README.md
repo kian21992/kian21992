@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kian ðŸ‘‹</h1>
+<h1 align="center">Hi, I'm Kian‹</h1>
 
 I'm a developer who enjoys building practical web applications and exploring how software can help solve everyday problems. My projects include full-stack apps, NLP and machine-learning experiments, and academic software systems.
 
