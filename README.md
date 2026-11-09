@@ -1,42 +1,42 @@
-<h1 align="center">Hi, I'm Kian‹</h1>
+<h1 align="center">Hi, I'm Kian</h1>
 
 I'm a developer who enjoys building practical web applications and exploring how software can help solve everyday problems. My projects include full-stack apps, NLP and machine-learning experiments, and academic software systems.
 
 ## Featured projects
 
-- [Gamit Check](https://github.com/kian21992/Gamit-Check) â€” a personal inventory app built with React, Express, and PostgreSQL.
-- [Resume Screening System](https://github.com/kian21992/resume_screening_system) â€” a Flask app that extracts resume details and matches candidate skills to job descriptions.
-- [FakeNews Detection](https://github.com/kian21992/FakeNews-Detection) â€” an academic project exploring NLP and machine-learning methods for evaluating online claims.
+- [Gamit Check](https://github.com/kian21992/Gamit-Check): a personal inventory app built with React, Express, and PostgreSQL.
+- [Resume Screening System](https://github.com/kian21992/resume_screening_system): a Flask app that extracts resume details and matches candidate skills to job descriptions.
+- [FakeNews Detection](https://github.com/kian21992/FakeNews-Detection): an academic project exploring NLP and machine-learning methods for evaluating online claims.
 
-## 02 â€” Development stack
+## Development stack
 
 ### Web & interfaces
 
-JavaScript Â· TypeScript Â· React Â· React Router Â· Vite Â· Tailwind CSS Â· HTML5 Â· CSS3
+JavaScript, TypeScript, React, React Router, Vite, Tailwind CSS, HTML5, CSS3
 
 ### Backend & databases
 
-Node.js Â· Express Â· FastAPI Â· PHP Â· SQL Â· PostgreSQL Â· MySQL Â· Supabase
+Node.js, Express, FastAPI, PHP, SQL, PostgreSQL, MySQL, Supabase
 
 ### Mobile development
 
-Flutter Â· Dart Â· Riverpod Â· Java Â· Android Studio
+Flutter, Dart, Riverpod, Java, Android Studio
 
 ### Applied AI & data
 
-Python Â· TensorFlow Â· Keras Â· PyTorch Â· NumPy Â· scikit-learn Â· Pillow Â· Groq API
+Python, TensorFlow, Keras, PyTorch, NumPy, scikit-learn, Pillow, Groq API
 
 ### Deployment & infrastructure
 
-Docker Â· Vercel Â· Render Â· Bash
+Docker, Vercel, Render, Bash
 
 ### Design & workflow
 
-Figma Â· Git Â· GitHub Â· ESLint
+Figma, Git, GitHub, ESLint
 
 ### AI development tools & practices
 
-OpenAI Codex Â· Claude Â· Blackbox AI Â· Antigravity Â· Gemini Â· GitHub Copilot Â· ChatGPT
+OpenAI Codex, Claude, Blackbox AI, Antigravity, Gemini, GitHub Copilot, ChatGPT
 
 ## What I'm learning
 
