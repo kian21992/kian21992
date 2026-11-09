@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Kian</h1>
 
-I'm a developer who enjoys building practical web applications and exploring how software can help solve everyday problems. My projects include full-stack apps, NLP and machine-learning experiments, and academic software systems.
+<p align="center">Aspiring Backend Developer</p>
+<p align="center">BS Computer Science, Holy Angel University</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kian-cruz-9a30b9346/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28"></a>
